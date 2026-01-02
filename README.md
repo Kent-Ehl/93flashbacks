@@ -1,9 +1,9 @@
-# showfloor
+# 95flashbacks
 ![showfloorlogo](https://github.com/user-attachments/assets/255078c5-d31c-4284-a720-f1f2ddcefd4f)
 
 ## Introduction
 
-**showfloor** is a recreation of the Shoshinkai 1995 demo of Super Mario 64, based on [The Preservation Project](https://github.com/Sunlitspace542/tpp-mirror) (TPP). It aims to continue TPP's legacy with greater accuracy to the source material.
+**95flashbacks** is a recreation of the beta of Super Mario 64, based on [showfloor](https://github.com/96flashbacks/showfloor) . It aims to continue showfloor's legacy with greater accuracy to the source material.
 
 ## Installation
 
@@ -13,8 +13,8 @@ Follow their [README](https://github.com/n64decomp/sm64/blob/master/README.md#in
 Clone and build:
 
 ```sh
-git clone https://github.com/96flashbacks/showfloor.git
-cd showfloor
+git clone https://github.com/MircaMircas/95flashbacks.git
+cd 95flashbacks
 make
 ```
 
@@ -41,12 +41,12 @@ make GRUCODE=f3d_20E
 **Can I contribute to this repository?**
 - Contributions are welcome. Please open an issue to report problems or suggest improvements, and feel free to submit pull requests.
 
-For more questions, join our [Discord server](https://discord.gg/ynabeAS4eD).
+For more questions, join the showfloor [Discord server](https://discord.gg/ynabeAS4eD).
 
 ## Credits
 
 ### '96flashbacks' Team
-
+### Note: This is leftover from showfloor.
 #### Main Programming
 - stalechilibeans
 - 1up Guy
@@ -145,3 +145,5 @@ For more questions, join our [Discord server](https://discord.gg/ynabeAS4eD).
 - [Retro Aesthetics’ Mario Series Matches](https://retroaesthetics.net/mario-series-matches/)
 - [TCRF’s Page](https://tcrf.net/Prerelease:Super_Mario_64_(Nintendo_64)/Shoshinkai_1995_Demo)
 - [Original TPP Source Code](https://github.com/Sunlitspace542/tpp-mirror)
+- [Original showfloor Source Code]
+(https://github.com/MircaMircas/95flashbacks)
