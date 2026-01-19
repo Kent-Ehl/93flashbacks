@@ -1,6 +1,1 @@
-
-
-
-## Introduction
-
-**94flashbacks** is a recreation of the beta of Super Mario 64. It aims to recreate the sm64 beta 1994 build. Wario here this is fake i made this haha
+**93flashbacks** is a recreation of the beta of Super Mario FX. It aims to recreate the SMFX beta 1993 build. Wario here this is fake i made this haha
